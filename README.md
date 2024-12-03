@@ -29,6 +29,7 @@ Here are some of the tools and technologies I work with:
 - **[Tesla Web Scraping](https://github.com/Fuschiam/tesla-web-scraping):** Built a web scraper to analyze Tesla's financial trends.
 
 ---
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm)")
 
 ### 📬 Connect with Me
 
