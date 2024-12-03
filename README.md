@@ -10,8 +10,6 @@ Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll 
 - **🎯 Focus Areas:** Data science, machine learning, and creative coding.
 
 ---
-![Exciting GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZqcTV1b2EzbDJscXk1NXNuY2ptOWNlMWt0dnJweHFhejVnNXN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp)
-
 
 ### 🛠️ My Toolbox
 
@@ -43,6 +41,9 @@ Here are some of the tools and technologies I work with:
 
 - I love blending creativity with data to solve real-world problems.
 - I’m a pilates enthusiast who believes in staying flexible—both in life and in code!
+
+![Exciting GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZqcTV1b2EzbDJscXk1NXNuY2ptOWNlMWt0dnJweHFhejVnNXN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp)
+
 
 Feel free to explore my repositories, contribute, or just say hi. Let’s build something amazing together! 🚀
 
