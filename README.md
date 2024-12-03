@@ -24,6 +24,7 @@ Here are some of the tools and technologies I work with:
 
 ![Exciting GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZqcTV1b2EzbDJscXk1NXNuY2ptOWNlMWt0dnJweHFhejVnNXN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp)
 
+---
 
 ### 🌟 Featured Projects
 
