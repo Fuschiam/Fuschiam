@@ -25,7 +25,7 @@ Here are some of the tools and technologies I work with:
 ### 🌟 Featured Projects
 
 - **[Colon Cancer Detection](https://github.com/Fuschiam/colon-cancer-detection):** Developed a deep learning model to classify histology images using CNN and KMeans clustering.
-- **[Airbnb NYC Analysis](https://github.com/Fuschiam/airbnb-nyc-analysis):** Conducted exploratory data analysis to uncover patterns in New York's Airbnb market.
+- **[Airbnb NYC Analysis][(https://github.com/Fuschiam/AirbnbProject)]:** Conducted exploratory data analysis to uncover patterns in New York's Airbnb market.
 - **[Tesla Web Scraping](https://github.com/Fuschiam/tesla-web-scraping):** Built a web scraper to analyze Tesla's financial trends.
 
 ---
