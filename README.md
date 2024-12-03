@@ -13,7 +13,6 @@ Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll 
 ![Exciting GIF](https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm)
 
 
-
 ### 🛠️ My Toolbox
 
 Here are some of the tools and technologies I work with:
