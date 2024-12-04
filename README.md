@@ -11,11 +11,11 @@ Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll 
 ---
 
 ### 🎯 Focus Areas
-- **📊 Data Analysis and Visualization – Turning raw data into actionable insights through clear and impactful visuals.
-- **🧩 Problem Solving with Data – Applying critical thinking and analytical skills to address real-world challenges.
-- **📈 Data-Driven Decision Making – Leveraging data to guide strategic and operational decisions.
-- **💡 Exploring Machine Learning – Experimenting with algorithms to uncover patterns and predictions.
-- **🤝 Team Collaboration – Partnering with multidisciplinary teams to deliver results-driven solutions.
+- 📊 Data Analysis and Visualization – Turning raw data into actionable insights through clear and impactful visuals.
+- 🧩 Problem Solving with Data – Applying critical thinking and analytical skills to address real-world challenges.
+- 📈 Data-Driven Decision Making – Leveraging data to guide strategic and operational decisions.
+- 💡 Exploring Machine Learning – Experimenting with algorithms to uncover patterns and predictions.
+- 🤝 Team Collaboration – Partnering with multidisciplinary teams to deliver results-driven solutions.
 
 ---
 
