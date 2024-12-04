@@ -1,5 +1,3 @@
-![Data Science](https://github.com/user-attachments/assets/5d76f5fe-fbe6-4682-823a-51b8896cefe4)
-
 ## Welcome to My GitHub! 🌟
 
 Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll find a blend of my technical projects, creative experiments, and explorations into the fascinating world of technology.
