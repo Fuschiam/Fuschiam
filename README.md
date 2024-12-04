@@ -11,11 +11,11 @@ Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll 
 ---
 
 ### 🎯 Focus Areas
-- **📊 Data Analysis and Visualization:** Turning raw data into actionable insights through clear and impactful visuals.
-- **🧩 Problem Solving with Data:** Applying critical thinking and analytical skills to address real-world challenges.
-- **📈 Data-Driven Decision Making:** Leveraging data to guide strategic and operational decisions.
-- **💡 Exploring Machine Learning:** Experimenting with algorithms to uncover patterns and predictions.
-- **🤝 Team Collaboration:** Partnering with multidisciplinary teams to deliver results-driven solutions.
+- **📊 Data Analysis & Visualization:** Transforming raw data into insights with impactful visuals.
+- **🧩 Problem Solving:** Applying analytical skills to tackle real-world challenges.
+- **📈 Data-Driven Decisions:** Using data to guide strategic and operational choices.
+- **💡 Machine Learning Exploration:** Experimenting with algorithms to find patterns and make predictions.
+- **🤝 Team Collaboration:** Partnering with teams to deliver results-oriented solutions.
 
 ---
 
@@ -32,9 +32,9 @@ Here are some of the tools and technologies I work with:
 
 ### 🌟 Featured Projects
 
-- **[Colon Cancer Detection](https://github.com/Fuschiam/colon-cancer-detection):** Developed a deep learning model to classify histology images using CNN and KMeans clustering.
+- **[Colon Cancer Detection](https://github.com/Fuschiam/miami-ds-5-final-project):** Developed a deep learning model to classify histology images using CNN and KMeans clustering.
 - **[Airbnb NYC Analysis](https://github.com/Fuschiam/AirbnbProject):** Conducted exploratory data analysis to uncover patterns in New York's Airbnb market.
-- **[Tesla Web Scraping](https://github.com/Fuschiam/tesla-web-scraping):** Built a web scraper to analyze Tesla's financial trends.
+- **[ML Web App Using Flask](https://github.com/Fuschiam/Fuschiam-ml-web-app-using-flask):** Created a web application to predict medical cost related to smoking using Flask.
 
 ---
 
