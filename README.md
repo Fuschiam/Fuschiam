@@ -34,7 +34,7 @@ Here are some of the tools and technologies I work with:
 
 - **[Colon Cancer Detection](https://github.com/Fuschiam/miami-ds-5-final-project):** Developed a deep learning model to classify histology images using CNN and KMeans clustering.
 - **[Airbnb NYC Analysis](https://github.com/Fuschiam/AirbnbProject):** Conducted exploratory data analysis to uncover patterns in New York's Airbnb market.
-- **[ML Web App Using Flask](https://github.com/Fuschiam/Fuschiam-ml-web-app-using-flask):** Created a web application to predict medical cost related to smoking using Flask.
+- **[ML Web App for Medical Cost Prediction](https://github.com/Fuschiam/Fuschiam-ml-web-app-using-flask):** Built a Flask web application to predict medical costs associated with smoking.
 
 ---
 
