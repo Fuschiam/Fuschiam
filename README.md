@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+
 ## Welcome to My GitHub! 🌟
 
 Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll find a blend of my technical projects, creative experiments, and explorations into the fascinating world of technology.
