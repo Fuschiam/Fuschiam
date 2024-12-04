@@ -5,17 +5,17 @@ Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll 
 ---
 
 ### 👩‍💻 About Me
-- **🔭 Currently Working On:** Building solutions for data science and machine learning challenges.
+- **🔭 Currently Working On:** Exploring creative ways to use data for problem-solving and uncovering meaningful insights.
 - **🌱 Always Learning:** Python, AI/ML techniques, and web development.
 
 ---
 
 ### 🎯 Focus Areas
-- 📊 Data Analysis and Visualization – Turning raw data into actionable insights through clear and impactful visuals.
-- 🧩 Problem Solving with Data – Applying critical thinking and analytical skills to address real-world challenges.
-- 📈 Data-Driven Decision Making – Leveraging data to guide strategic and operational decisions.
-- 💡 Exploring Machine Learning – Experimenting with algorithms to uncover patterns and predictions.
-- 🤝 Team Collaboration – Partnering with multidisciplinary teams to deliver results-driven solutions.
+- **📊 Data Analysis and Visualization:** Turning raw data into actionable insights through clear and impactful visuals.
+- **🧩 Problem Solving with Data:** Applying critical thinking and analytical skills to address real-world challenges.
+- **📈 Data-Driven Decision Making:** Leveraging data to guide strategic and operational decisions.
+- **💡 Exploring Machine Learning:** Experimenting with algorithms to uncover patterns and predictions.
+- **🤝 Team Collaboration:** Partnering with multidisciplinary teams to deliver results-driven solutions.
 
 ---
 
@@ -24,7 +24,7 @@ Hi there! I'm Fuschia, a passionate data enthusiast and developer. Here, you'll 
 Here are some of the tools and technologies I work with:
 
 - **Programming Languages:** Python, SQL
-- **Frameworks & Libraries:** Flask, scikit-learn, Pandas, Matplotlib
+- **Frameworks & Libraries:** Flask, scikit-learn, Pandas, Matplotlib, Tensorflow
 - **Tools:** Jupyter, PyCharm, Git/GitHub, VS Code
 - **Cloud & Deployment:** AWS (beginner), Render
 
